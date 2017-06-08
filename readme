@@ -1,0 +1,13 @@
+-----
+Requirements:
+-----
+macOS 
+
+-----
+Configure
+-----
+Modify the name in flowers.sh Jordana Nahum to the macOS contact name you wish to messaage
+Modify install.sh with the crontab schedule you want to run the script to send your hunny sweet nothings
+currently the cron is setup to run friday at 1pm each week
+
+Have fun and now you do not have to worry about sending sweet messages manually. Good work!!!
